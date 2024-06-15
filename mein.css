@@ -1,0 +1,50 @@
+table{
+    width: 900px;
+border: 1px solid black;
+border-collapse: collapse;
+text-align: center;
+
+}
+tr ,th,td{
+border: 1px solid black;
+border-collapse: collapse;
+}
+caption{
+    background-color: yellow;
+}
+.qizzil{
+    background-color: red;
+}
+.fyaletoviy{
+    background-color: blueviolet;
+}
+.yashil{
+    background-color: green;
+}
+.a1{
+    background-color: rgb(80, 80, 175);
+    border: 3px solid red;
+    text-align: center;
+    border-radius: 30px;
+}
+.a2{
+    color: red;
+}
+.a3{
+    color: green;
+}
+.a4{
+    color:red;
+}
+.a5{
+    color:yellow;
+}
+.a6{
+ color: rgb(155, 227, 155);
+}
+.a7{
+    color: rgb(104, 103, 101);
+}
+.jon{
+background-color: green;
+}
